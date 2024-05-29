@@ -1,2 +1,2 @@
 # CursoGit
-Cursos del curso del Git
+Cursos de Git DTI
